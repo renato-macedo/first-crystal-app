@@ -1,0 +1,13 @@
+name: first-crystal-app
+version: 0.1.0
+
+authors:
+  - Renato <renatomacedo500@gmail.com>
+
+targets:
+  first-crystal-app:
+    main: src/first-crystal-app.cr
+
+crystal: 0.30.1
+
+license: MIT
